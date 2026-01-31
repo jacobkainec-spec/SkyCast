@@ -1,7 +1,16 @@
-"icons": [
-  {
-    "src": "icon.png", 
-    "sizes": "512x512",
-    "type": "image/png"
-  }
-]
+{
+  "name": "SkyCast Pro",
+  "short_name": "SkyCast",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#1c1b33",
+  "theme_color": "#1c1b33",
+  "icons": [
+    {
+      "src": "icon-new.png",
+      "sizes": "1024x1024",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
